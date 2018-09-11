@@ -1,4 +1,4 @@
-C2 = 1 nF, C3 = 10 nF
+L2 = 2.2 uH, C2 = 1 nF, C3 = 10 nF
 
 C5 [pF]  R5 [Ohm]  Freq [MHz]
 ~600     182       5.25
